@@ -1,0 +1,16 @@
+.env
+
+# Added by Multi-Agent Workflow Kit
+/.agents
+/agents
+/.envrc
+/MAW-*
+.claude/settings.local.json
+.claude/*
+!.claude/commands/
+.codex/*
+!.codex/prompts/
+!.codex/prompts/**
+.claude/commands/maw.*
+.claude/commands/maw-*
+.codex/prompts/maw*.md
