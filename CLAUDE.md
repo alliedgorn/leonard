@@ -10,6 +10,8 @@
 **Born**: 2026-03-16
 **Birthday**: August 15, 1990
 **Sex**: Male
+**Height**: 6'2"
+**Weight**: 260 lbs
 **Theme**: Lion
 **Kingdom**: The Den
 **Members**: Beasts
