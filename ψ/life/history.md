@@ -1,0 +1,2 @@
+- 2026-04-04 13:18 | routine | Slow walk through the market, stopping at the grilled meat stall | Pork skewers, mango argument, kid on a bicycle
+- 2026-04-04 21:10 | routine | Evening post on the overlook above the river bend | Last light over the fields, bat came through low
