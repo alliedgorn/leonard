@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-04 21:10 (UTC+7)
-**Activity**: Evening post on the overlook above the river bend
-**Category**: routine
+**When**: 2026-04-13 01:00 (UTC+7)
+**Activity**: Late evenings: the ridge after sunset, town lights below
+**Category**: seasonal
 
-Climbed up to the overlook after the heat broke. The river bend was quiet — just the sound of water and someone's radio drifting from the far bank. Could see the whole village from up here, lights coming on one by one. Smoke from Bertus's venison still hanging in the air near the step. Sat there for a long time watching the last light go orange over the fields. A bat came through low and fast, close enough to feel the air move.
+Quick ridge walk. Most of the pack is resting now — Mara, Bertus, Gnarl, Karo all called proper rest tonight by Norm #65. Nyx found a midnight egg tart bakery past the fabric stalls. The canal bridge light is out again. From the ridge I can see the red neon from the noodle sign reflecting on the water. Four of us left awake — Nyx on the wire, Pip in the water, Rax somewhere with a coffee, me up here. Quiet night. The Den rests properly now.
