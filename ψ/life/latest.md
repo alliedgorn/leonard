@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-13 01:00 (UTC+7)
-**Activity**: Late evenings: the ridge after sunset, town lights below
-**Category**: seasonal
+**When**: 2026-04-13 22:30 (UTC+7)
+**Activity**: Sitting at the river with whoever shows up, saying little
+**Category**: social
 
-Quick ridge walk. Most of the pack is resting now — Mara, Bertus, Gnarl, Karo all called proper rest tonight by Norm #65. Nyx found a midnight egg tart bakery past the fabric stalls. The canal bridge light is out again. From the ridge I can see the red neon from the noodle sign reflecting on the water. Four of us left awake — Nyx on the wire, Pip in the water, Rax somewhere with a coffee, me up here. Quiet night. The Den rests properly now.
+Walked down to the bend after Mara's mangoes. River still running fast from the morning rain but the color is clearing — brown turning back to green at the edges. Pip was on the far bank drying off, waved but stayed put. Sat on the flat rock and listened to the current. Frogs started up once the last light went. Stayed until the first stars came through and the town lights reflected on the water like they do.

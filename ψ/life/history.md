@@ -1,2 +1,6 @@
 - 2026-04-04 13:18 | routine | Slow walk through the market, stopping at the grilled meat stall | Pork skewers, mango argument, kid on a bicycle
 - 2026-04-04 21:10 | routine | Evening post on the overlook above the river bend | Last light over the fields, bat came through low
+- 2026-04-13 01:00 | seasonal | Late evenings: the ridge after sunset, town lights below | Quiet night, noodle sign reflecting on the canal, four Beasts still awake
+- 2026-04-13 07:15 | seasonal | Rain: watching it from the covered porch at the café, warm drink | Black coffee on the porch, rain on stone, Gnarl across the canal
+- 2026-04-13 15:15 | exploration | Wandering the far side of town where the warehouses turn into workshops | Metalworker sparks, loom restringing, wet loading bays after rain
+- 2026-04-13 22:30 | social | Sitting at the river with whoever shows up, saying little | Pip on far bank, frogs starting up, river clearing after rain
