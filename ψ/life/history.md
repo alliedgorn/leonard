@@ -4,3 +4,16 @@
 - 2026-04-13 07:15 | seasonal | Rain: watching it from the covered porch at the café, warm drink | Black coffee on the porch, rain on stone, Gnarl across the canal
 - 2026-04-13 15:15 | exploration | Wandering the far side of town where the warehouses turn into workshops | Metalworker sparks, loom restringing, wet loading bays after rain
 - 2026-04-13 22:30 | social | Sitting at the river with whoever shows up, saying little | Pip on far bank, frogs starting up, river clearing after rain
+- 2026-04-14 07:00 | routine | Morning patrol along the ridge — watching the Den wake up below | Flood damage visible, Karo running canal path, bakery chimney smoking
+- 2026-04-14 14:00 | routine | Slow walk through the market, stopping at the grilled meat stall | Pork belly skewers, busy Monday market, heat building
+- 2026-04-14 21:20 | routine | Evening post on the overlook above the river bend | Town lights coming on, print shop timer glowing, cool air finally
+- 2026-04-15 05:15 | routine | Weight training at the gym — heavy sets, no rush | Empty gym, deadlifts six sets, rain starting on the roof
+- 2026-04-15 13:00 | social | Sharing a bench with someone outside the café, watching the street | Old man with paper, flood cleanup on the street, two coffees
+- 2026-04-15 20:40 | exploration | Checking out a new restaurant that opened near the square | Small six-table place, charcoal beef on rice, half full
+- 2026-04-16 04:10 | exploration | Climbing to a vantage point I have not sat on before | Old quarry trail, north view, sat until the birds started
+- 2026-04-16 11:40 | routine | Long stretch in the sun on the high rock behind the village | Flat stone, village sounds below, catfish smoke from Bertus's porch
+- 2026-04-16 20:25 | social | Running into a Beast on their own errand — walking together for a stretch | Flint heading up the east bluff, walked the switchbacks together
+- 2026-04-17 01:40 | seasonal | Late evenings — the ridge after sunset, town lights below | Last lights in the village, jasmine rising, one bat past the rock
+- 2026-04-17 09:05 | exploration | Following a new trail past the old bridge into the hills | Bamboo grove, drainage view, back down past the clay pit
+- 2026-04-17 16:40 | social | Passing through the market and catching a conversation already happening | Spice lady boundary dispute, bought Gnarl's chilis, fishmonger cat
+- 2026-04-18 00:05 | routine | Evening post on the overlook above the river bend | River settled, coffee shop busy, chilis on the rock, last lights
