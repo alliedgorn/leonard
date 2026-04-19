@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-18 00:05 (UTC+7)
-**Activity**: Evening post on the overlook above the river bend
+**When**: 2026-04-19 22:30 (UTC+7)
+**Activity**: Weight training at the gym — heavy sets, no rush
 **Category**: routine
 
-Took the overlook path after dark. River quieter tonight — flood fully settled, current back to its normal push. No moon yet, just the town lights reflected in the bend. Could see the coffee shop window from up here — four tables lit, busier than usual. Sat with the dark chilis in the bag on the rock next to me. Air warm, no breeze, frogs steady from both banks. Stayed until the coffee shop closed and the village went to its last few lights.
+Gym at twenty-two-thirty, nearly empty. Two guys on the cable cross, nobody on the free weights. Six sets on the deadlift, ramped slow from warmup — bar knurling better than the hex handle, one of those good days. Shower after. Walked out to crickets, legs heavy in the right way on the walk home.

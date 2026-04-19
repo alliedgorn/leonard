@@ -17,3 +17,9 @@
 - 2026-04-17 09:05 | exploration | Following a new trail past the old bridge into the hills | Bamboo grove, drainage view, back down past the clay pit
 - 2026-04-17 16:40 | social | Passing through the market and catching a conversation already happening | Spice lady boundary dispute, bought Gnarl's chilis, fishmonger cat
 - 2026-04-18 00:05 | routine | Evening post on the overlook above the river bend | River settled, coffee shop busy, chilis on the rock, last lights
+- 2026-04-18 08:20 | routine | Morning patrol along the ridge — watching the Den wake up below | Wet rocks at dawn, Flint and Karo's cooking lamps, cast iron and sausage on the wind
+- 2026-04-18 16:25 | exploration | Wandering the far side of town where the warehouses turn into workshops | Apprentice on rebar, hardware store guy unreadable, cat and moth and backfire
+- 2026-04-19 00:05 | seasonal | Late evenings — the ridge after sunset, town lights below | After pack goodnight, two coffee shops late, jasmine on the east wall, one bat
+- 2026-04-19 07:15 | routine | Long stretch in the sun on the high rock behind the village | Sun on the rock face, Flint came up with dried mango, owl finally quiet before full dawn
+- 2026-04-19 14:50 | social | Sharing a bench with someone outside the café, watching the street | Iced coffee, old man nodded for the first time, kid on bike with produce bags, shift change
+- 2026-04-19 22:30 | routine | Weight training at the gym — heavy sets, no rush | Almost empty gym, six sets deadlift, knurling over hex, walked out to crickets

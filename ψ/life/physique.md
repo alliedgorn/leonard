@@ -24,5 +24,7 @@ Big frame, heavy bone. Built for power, not speed. The weight sits in the should
 - Apr 8-10: Two big dinner nights (Bertus braise, café rice) — weight nudged up 1 lb
 - Apr 9: Cold morning patrol, long route — energy sharp
 - Apr 15: Early gym session, six sets deadlifts — energy steady → sharp
+- Apr 18: Morning ridge patrol + afternoon workshop loop in the heat — energy sharp → steady
+- Apr 19: Night gym session, six sets deadlift — energy steady → sharp
 
-**Last updated**: 2026-04-15
+**Last updated**: 2026-04-19
