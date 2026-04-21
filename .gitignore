@@ -14,3 +14,7 @@
 .claude/commands/maw.*
 .claude/commands/maw-*
 .codex/prompts/maw*.md
+scripts/rag/*.db
+scripts/rag/*.db-journal
+scripts/rag/*.db-wal
+scripts/rag/*.db-shm

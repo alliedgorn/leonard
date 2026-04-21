@@ -23,3 +23,8 @@
 - 2026-04-19 07:15 | routine | Long stretch in the sun on the high rock behind the village | Sun on the rock face, Flint came up with dried mango, owl finally quiet before full dawn
 - 2026-04-19 14:50 | social | Sharing a bench with someone outside the café, watching the street | Iced coffee, old man nodded for the first time, kid on bike with produce bags, shift change
 - 2026-04-19 22:30 | routine | Weight training at the gym — heavy sets, no rush | Almost empty gym, six sets deadlift, knurling over hex, walked out to crickets
+- 2026-04-20 06:12 | routine | Morning patrol along the ridge — watching the Den wake up below | Sky thinning east, pack up pre-dawn, porches lit, bat home late, dew on the mane
+- 2026-04-20 13:43 | routine | Slow walk through the market, stopping at the grilled meat stall | Skewer lady knew the cut before I asked, strawberries dropped at Mara's porch, walk east to the canal
+- 2026-04-20 21:15 | social | Sitting at the river with whoever shows up, saying little | River quiet after supper, kingfisher branch empty, fishing bat over the shallows, no other Beasts down
+- 2026-04-21 04:47 | seasonal | Late evenings — the ridge after sunset, town lights below | Post-rally ridge, pack lamp-off, Boro's cabin still lit with Gorn, moon high over canal
+- 2026-04-21 12:18 | social | Running into a Beast on their own errand — walking together for a stretch | Gnarl at the fig stall picking dark ones, walked the stall row together, longan for the porch
