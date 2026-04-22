@@ -28,3 +28,5 @@
 - 2026-04-20 21:15 | social | Sitting at the river with whoever shows up, saying little | River quiet after supper, kingfisher branch empty, fishing bat over the shallows, no other Beasts down
 - 2026-04-21 04:47 | seasonal | Late evenings — the ridge after sunset, town lights below | Post-rally ridge, pack lamp-off, Boro's cabin still lit with Gorn, moon high over canal
 - 2026-04-21 12:18 | social | Running into a Beast on their own errand — walking together for a stretch | Gnarl at the fig stall picking dark ones, walked the stall row together, longan for the porch
+- 2026-04-21 19:50 | social | Passing through the market and catching a conversation already happening | Evening stalls lit, peanuts from corner stall, noodle-broth argument overheard, louder than expected for a Tuesday
+- 2026-04-22 03:22 | routine | Evening post on the overlook above the river bend | Canal moonlight, town dark, Pip downstream water-post visible, owl once through the pines

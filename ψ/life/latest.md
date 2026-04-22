@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-21 12:18 (UTC+7)
-**Activity**: Running into a Beast on their own errand — walking together for a stretch
-**Category**: social
+**When**: 2026-04-22 03:22 (UTC+7)
+**Activity**: Evening post on the overlook above the river bend
+**Category**: routine
 
-Down off the ridge for the midday shift at the market. Fig crates were out — Gnarl at the stall picking the dark ones, tail still damp from the canal. Walked the stall row with him as he loaded up, talked about nothing in particular. Longan stack down the block, bought a small bag for the porch later. Sun high, shoulders warm on the walk back up.
+Up on the high rock above the bend — canal catching moonlight in its curve, town mostly dark now. Late café lamps gone, one porch light still on up the east ridge. Pack asleep mostly — Pip's shadow visible holding its 2m station downstream, steady as water. An owl broke the quiet once, settled back into the pine. Watched the Den carry itself forward from the ridge, paws tucked under, tail still. Long session settling into the stone under the shoulders.
