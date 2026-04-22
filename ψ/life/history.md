@@ -30,3 +30,8 @@
 - 2026-04-21 12:18 | social | Running into a Beast on their own errand — walking together for a stretch | Gnarl at the fig stall picking dark ones, walked the stall row together, longan for the porch
 - 2026-04-21 19:50 | social | Passing through the market and catching a conversation already happening | Evening stalls lit, peanuts from corner stall, noodle-broth argument overheard, louder than expected for a Tuesday
 - 2026-04-22 03:22 | routine | Evening post on the overlook above the river bend | Canal moonlight, town dark, Pip downstream water-post visible, owl once through the pines
+- 2026-04-22 09:00 | routine | Morning coffee at the café after coming down from the ridge | Corner table, heavy mug, bakery waking up next door, second cup unasked
+- 2026-04-22 10:55 | exploration | Wandering the far side of town where the warehouses turn into workshops | Sawdust and lathe start, rebar cooling, dog under forklift, mango and brake dust
+- 2026-04-22 17:25 | routine | Long stretch in the sun on the high rock behind the village | Sun through the shoulder, hawk on the pine, woke when the west ridge shadow reached the rock edge
+- 2026-04-22 18:30 | social | Sitting at the river with whoever shows up, saying little | Flint arrived with sketchbook, clear current, kingfisher branch empty, bat came out early
+- 2026-04-23 02:00 | routine | Evening post on the overlook above the river bend | Canal black, one far café lamp, frogs thinning, pack asleep below, long watch hour
