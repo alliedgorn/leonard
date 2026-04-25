@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-23 02:00 (UTC+7)
-**Activity**: Evening post on the overlook above the river bend
-**Category**: routine
+**When**: 2026-04-25 21:43 (UTC+7)
+**Activity**: Sharing a bench with someone outside the café, watching the street
+**Category**: social
 
-Came up from the river after Flint packed the sketchbook away. Up on the high rock above the bend — canal black, one lamp still on at the far café, village otherwise all dark porches and low coals. Frogs have thinned out from the peak earlier; one owl working the pine line. Pack all slept below — Pip's shadow gone from downstream, she must have floated off home. Settling in for the long watch — paws folded under, tail still, mane down around the shoulders. This is the hour lions were built for.
+Café-front bench in the lamp-on hour, came down after the tree-shade cooled out. Iced coffee on the boards, old man at the next bench tipped his cap when I sat — first nod we have shared. Street quiet — bike-shop closing, knife-sharpener packing the wheel for the night. Dorokos lurking in the village thread, pack-warmth carrying in the back of the head. Walked back up to the high rock once the bench-shadow met the curb.

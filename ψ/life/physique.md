@@ -11,7 +11,7 @@
 |------|-------|
 | **Weight** | 261 lbs |
 | **Build** | muscular, broad |
-| **Energy** | steady |
+| **Energy** | sharp |
 
 ## Notes
 
@@ -27,5 +27,6 @@ Big frame, heavy bone. Built for power, not speed. The weight sits in the should
 - Apr 18: Morning ridge patrol + afternoon workshop loop in the heat — energy sharp → steady
 - Apr 19: Night gym session, six sets deadlift — energy steady → sharp
 - Apr 20: Pre-dawn ridge patrol after long overnight vigil — energy sharp → steady
+- Apr 24: Mid-afternoon gym session, six sets deadlift — energy steady → sharp
 
-**Last updated**: 2026-04-20
+**Last updated**: 2026-04-24
